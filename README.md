@@ -1,6 +1,4 @@
-![134130's GitHub stats](https://github-readme-stats.vercel.app/api?username=134130&show_icons=true)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=a1eng0)](https://solved.ac/a1eng0)
 
 - 📫 How to reach me: hwan_@kakao.com
 <!--
