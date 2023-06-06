@@ -1,5 +1,10 @@
-| Period          | What I did/do                               |
-| -               | -                                           |
-| 2019.03 ~  ing  | 🧑‍🎓 CSE major at HyupSung Univ.              |
-| 2020.10 ~ 22.06 | ⚓️ CERT & Main computer operator at ROKN     |
-| 2022.04 ~  ing  | 🧑‍💻 Software Engineer at QueryPie            |
+- 🏫🧑‍🎓 HyupSung Univ.
+  -  2019.03 ~ ing
+  -  Computer Science Engineering
+- ⚓️🪖 Republic of Korea Navy
+  - 2020.10 ~ 2022.06
+  - CERT (Computer Emergency Response Team)
+  - Host Computer Operator
+- 🏢🧑‍💻 QueryPie, CHEQUER Inc.
+  -  2022.04 ~ ing
+  -  Software Engineer
