@@ -3,8 +3,9 @@
 - ⚓️🪖 Republic of Korea Navy (2020.10 ~ 2022.06)
   - CERT (Computer Emergency Response Team)
   - Host Computer Operator
-- 🏢🧑‍💻 QueryPie, CHEQUER Inc. (2022.04 ~ ing) 
-  - Software Engineer
+- 🏢🧑‍💻 QueryPie, CHEQUER Inc.
+  - Software Engineer w/ C# (2022.04 ~ 2023.06)
+  - Software Engineer w/ Kotlin (2023.07 ~ ing)
 
 
 ![git](https://img.shields.io/badge/git-f03c2d?logo=git&logoColor=white&style=flat)
