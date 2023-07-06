@@ -1,5 +1,3 @@
-## Korean man, who started programming since interested in hacking
-I believe that software can change the world.
 
 ### History
 - 🏫🧑‍🎓 HyupSung Univ. (2019.03 ~ ing)
