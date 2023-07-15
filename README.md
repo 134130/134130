@@ -4,9 +4,9 @@
   -  Computer Science Engineering
 - ⚓️🪖 Republic of Korea Navy (2020.10 ~ 2022.06)
   - CERT (Computer Emergency Response Team)
-    - Managing Security soclutions (Firewall, NAC, PMS, IPS, IDS, TMS, SIEM and sometime more ...)
+    - Managing Security soclutions (Firewall, NAC, PMS, IPS, IDS, TMS, SIEM, ...)
   - Host Computer Operator
-    - Managing on-premise Network and Server Devices
+    - Managing on-premise Network and Servers Devices
 - 🏢🧑‍💻 QueryPie, CHEQUER Inc.
   - Software Engineer w/ C# (2022.04 ~ 2023.06)
   - Software Engineer w/ Kotlin (2023.07 ~ ing)
