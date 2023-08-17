@@ -1,15 +1,22 @@
 
 ### History
-- 🏫🧑‍🎓 HyupSung Univ. (2019.03 ~ ing)
-  -  Computer Science Engineering
-- ⚓️🪖 Republic of Korea Navy (2020.10 ~ 2022.06)
-  - CERT (Computer Emergency Response Team)
-    - Managing Security soclutions (Firewall, NAC, PMS, IPS, IDS, TMS, SIEM, ...)
-  - Host Computer Operator
-    - Managing on-premise Network and Servers Devices
-- 🏢🧑‍💻 QueryPie, CHEQUER Inc.
-  - Software Engineer w/ C# (2022.04 ~ 2023.06)
-  - Software Engineer w/ Kotlin (2023.07 ~ ing)
+- 🏫🧑‍🎓 Education
+  - HyupSung Univ. (2019.03 ~ 2023.08)
+    -  Computer Science Engineering
+  - Korea National Open Univ. (2023.09 ~ 2026.08)
+    -  Computer Science Engineering
+- ⚓️🪖 Military
+  - Republic of Korea Navy (2020.10 ~ 2021.08)
+    - CERT (Computer Emergency Response Team)
+      - Managing Security soclutions (Firewall, NAC, PMS, IPS, IDS, TMS, SIEM, ...)
+    - Host Computer Operator (2021.09 ~ 2022.06)
+      - Managing on-premise Military Network and Servers Devices
+- 🏢🧑‍💻 Job
+  - QueryPie, CHEQUER Inc.
+    - Platform Developer (2022.04 ~ 2023.06)
+      - `C#` `.NET` `ANTLR4` `Avalonia`
+    - Backend Developer (2023.07 ~ ing)
+      - `Kotlin` `Spring Boot` `Postgres`
 
 ---
 ![git](https://img.shields.io/badge/git-f03c2d?logo=git&logoColor=white&style=flat)
