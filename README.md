@@ -7,7 +7,7 @@ aaa
 
 ### History
 - 🏫🧑‍🎓 Education
-  - HyupSung Univ. (2019.03 ~ 2023.08)
+  - HyupSung Univ. (2019.03 ~ 2023.08)adsfqwer
     -  Computer Science Engineering
   - Korea National Open Univ. (2023.09 ~ 2026.08)
     -  Computer Science Engineering
