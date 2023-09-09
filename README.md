@@ -17,7 +17,7 @@ aaa
       - Managing Security soclutions (Firewall, NAC, PMS, IPS, IDS, TMS, SIEM, ...)
     - Host Computer Operator (2021.09 ~ 2022.06)
       - Managing on-premise Military Network and Servers Devices
-- 🏢🧑‍💻 Job
+- 🏢🧑‍💻 Joba adsqwer
   - QueryPie, CHEQUER Inc.
     - Platform Developer (2022.04 ~ 2023.06)
       - `C#` `.NET` `ANTLR4` `Avalonia`
