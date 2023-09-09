@@ -1,7 +1,13 @@
+| Period          | What I did/do                               |
+| -               | -                                           |
+| 2019.03 ~  ing  | 🧑‍🎓 CSE major at HyupSung Univ.              |
+| 2020.10 ~ 22.06 | ⚓️ CERT & Main computer operator at ROKN     |
+| 2022.04 ~  ing  | 🧑‍💻 Software Engineer at QueryPie            |
+aaa
 
 ### History
 - 🏫🧑‍🎓 Education
-  - HyupSung Univ. (2019.03 ~ 2023.08)
+  - HyupSung Univ. (2019.03 ~ 2023.08)adsfqwer
     -  Computer Science Engineering
   - Korea National Open Univ. (2023.09 ~ 2026.08)
     -  Computer Science Engineering
@@ -11,7 +17,7 @@
       - Managing Security soclutions (Firewall, NAC, PMS, IPS, IDS, TMS, SIEM, ...)
     - Host Computer Operator (2021.09 ~ 2022.06)
       - Managing on-premise Military Network and Servers Devices
-- 🏢🧑‍💻 Job
+- 🏢🧑‍💻 Joba adsqwer
   - QueryPie, CHEQUER Inc.
     - Platform Developer (2022.04 ~ 2023.06)
       - `C#` `.NET` `ANTLR4` `Avalonia`
