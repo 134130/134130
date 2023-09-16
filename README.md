@@ -18,6 +18,25 @@
     - Backend Developer (2023.07 ~ ing)
       - `Kotlin` `Spring Boot` `Postgres`
 
+### Contributions :octocat:
+- **refined-github/refined-github**
+  - [PR] Show "Disabled" state in `github-actions-indicators` [#6543](https://github.com/refined-github/refined-github/pull/6543)
+  - [PR] Add `action-pr-link` feature [#6694](https://github.com/refined-github/refined-github/pull/6694)
+  - [PR] Add `previous-version` feature [#6550](https://github.com/refined-github/refined-github/pull/6550)
+  - [PR] Enable `useful-not-found-page` on the new "404 file" page [#6840](https://github.com/refined-github/refined-github/pull/6840)
+  - [PR] Add support for "minimum font size" browser setting in `pr-approvals-count` [#6898](https://github.com/refined-github/refined-github/pull/6898)
+  - _... more 10+ issues and pull requests_
+- **dotnet/sdk**
+  - [PR] Fix translation error of NETSDK1179 [#31294](https://github.com/dotnet/sdk/pull/31294)
+- **apache/shardingsphere**
+  - [PR] Optimize the message of DatabaseServerInfo [#28428](https://github.com/apache/shardingsphere/pull/28428)
+  - [Issue] MySQL's ResultSet of `SELECT *` is wrong when with Masking Feature[ #27879](https://github.com/apache/shardingsphere/issues/27879)
+- **axisj/react-multi-email**
+  - [PR] Support email duplicating [#152](https://github.com/axisj/react-multi-email/pull/152)
+- **actions/setup-dotnet**
+  - [Issue] Support registration manual NuGet source to NuGet.Config [#415](https://github.com/actions/setup-dotnet/issues/415)
+- **JSQLParser/JSqlParser**
+  - [Issue] [FEATURE] Support TABLE statement which added since MySQL 8.0.19 [#1836](https://github.com/JSQLParser/JSqlParser/issues/1836)
 ---
 ![git](https://img.shields.io/badge/git-f03c2d?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-242938?logo=github&logoColor=white&style=flat)
