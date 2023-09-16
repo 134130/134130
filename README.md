@@ -6,13 +6,14 @@
   - Korea National Open Univ. (2023.09 ~ 2026.08)
     -  Computer Science Engineering
 - ⚓️🪖 Military
-  - Republic of Korea Navy (2020.10 ~ 2021.08)
-    - CERT (Computer Emergency Response Team)
+  - Republic of Korea Navy (2020.10 ~ 2022.06)
+    - CERT; Computer Emergency Response Team (2020.12 ~ 2021.08)
       - Managing Security soclutions (Firewall, NAC, PMS, IPS, IDS, TMS, SIEM, ...)
     - Host Computer Operator (2021.09 ~ 2022.06)
       - Managing on-premise Military Network and Servers Devices
 - 🏢🧑‍💻 Job
-  - QueryPie, CHEQUER Inc.
+  - QueryPie, CHEQUER Inc. (2022.04 ~ ing)
+    - Cloud Data Protection Platform; Data Governance
     - Platform Developer (2022.04 ~ 2023.06)
       - `C#` `.NET` `ANTLR4` `Avalonia`
     - Backend Developer (2023.07 ~ ing)
