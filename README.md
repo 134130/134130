@@ -2,9 +2,9 @@
 ### History
 - 🏫🧑‍🎓 Education
   - HyupSung Univ. (2019.03 ~ 2023.08)
-    -  Computer Science Engineering
+    -  Computer Science & Engineering
   - Korea National Open Univ. (2023.09 ~ 2026.08)
-    -  Computer Science Engineering
+    -  Computer Science & Engineering
 - ⚓️🪖 Military
   - Republic of Korea Navy (2020.10 ~ 2022.06)
     - CERT; Computer Emergency Response Team (2020.12 ~ 2021.08)
