@@ -8,7 +8,7 @@
 - ⚓️🪖 Military
   - Republic of Korea Navy (2020.10 ~ 2022.06)
     - CERT; Computer Emergency Response Team (2020.12 ~ 2021.08)
-      - Managing Security soclutions (Firewall, NAC, PMS, IPS, IDS, TMS, SIEM, ...)
+      - Managing Security solutions (Firewall, NAC, PMS, IPS, IDS, TMS, SIEM, ...)
     - Host Computer Operator (2021.09 ~ 2022.06)
       - Managing on-premise Military Network and Servers Devices
 - 🏢🧑‍💻 Job
