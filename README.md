@@ -26,7 +26,7 @@
   - [PR] Add `previous-version` feature [#6550](https://github.com/refined-github/refined-github/pull/6550)
   - [PR] Enable `useful-not-found-page` on the new "404 file" page [#6840](https://github.com/refined-github/refined-github/pull/6840)
   - [PR] Add support for "minimum font size" browser setting in `pr-approvals-count` [#6898](https://github.com/refined-github/refined-github/pull/6898)
-  - _... more 10+ issues and pull requests_
+  - _... over 20+ issues and pull requests_
 - **dotnet/sdk**
   - [PR] Fix translation error of NETSDK1179 [#31294](https://github.com/dotnet/sdk/pull/31294)
 - **apache/shardingsphere**
