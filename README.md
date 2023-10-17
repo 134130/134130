@@ -39,7 +39,7 @@
 - **JSQLParser/JSqlParser**
   - [Issue] [FEATURE] Support TABLE statement which added since MySQL 8.0.19 [#1836](https://github.com/JSQLParser/JSqlParser/issues/1836)
 - **hierynomus/sshj**
-  - [Issue] NullPointerException on Malformed OpenSSH Private keys in `OpenSSHKeyV1KeyFile.java`
+  - [Issue] NullPointerException on Malformed OpenSSH Private keys in `OpenSSHKeyV1KeyFile.java` [#897](https://github.com/hierynomus/sshj/issues/897)
 ---
 ![git](https://img.shields.io/badge/git-f03c2d?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-242938?logo=github&logoColor=white&style=flat)
