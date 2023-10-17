@@ -38,6 +38,8 @@
   - [Issue] Support registration manual NuGet source to NuGet.Config [#415](https://github.com/actions/setup-dotnet/issues/415)
 - **JSQLParser/JSqlParser**
   - [Issue] [FEATURE] Support TABLE statement which added since MySQL 8.0.19 [#1836](https://github.com/JSQLParser/JSqlParser/issues/1836)
+- **hierynomus/sshj**
+  - [Issue] NullPointerException on Malformed OpenSSH Private keys in `OpenSSHKeyV1KeyFile.java`
 ---
 ![git](https://img.shields.io/badge/git-f03c2d?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-242938?logo=github&logoColor=white&style=flat)
