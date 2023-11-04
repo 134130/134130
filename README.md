@@ -17,7 +17,7 @@
     - Platform Developer (2022.04 ~ 2023.06)
       - `C#` `.NET` `ANTLR4` `Avalonia`
     - Backend Developer (2023.07 ~ ing)
-      - `Kotlin` `Spring Boot` `Postgres`
+      - `Kotlin` `Spring Boot` `Postgres` `Kubenetes`
 
 ### Contributions :octocat:
 - **refined-github/refined-github**
