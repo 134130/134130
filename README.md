@@ -16,7 +16,7 @@
     - Cloud Data Protection Platform; Data Governance
     - Platform Developer (2022.04 ~ 2023.06)
       - `C#` `.NET` `ANTLR4` `Avalonia`
-    - Backend Developer (2023.07 ~ ing)
+    - SaaS Backend Developer (2023.07 ~ ing)
       - `Kotlin` `Spring Boot` `Postgres` `Kubernetes`
 
 ### Contributions :octocat:
