@@ -13,7 +13,6 @@
       - Managing on-premise Military Network and Servers Devices
 - 🏢🧑‍💻 Job
   - QueryPie, CHEQUER Inc. (2022.04 ~ ing)
-    - Cloud Data Protection Platform; Data Governance
     - Platform Developer (2022.04 ~ 2023.06)
       - `C#` `.NET` `ANTLR4` `Avalonia`
     - SaaS Backend Developer (2023.07 ~ ing)
