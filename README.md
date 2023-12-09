@@ -45,10 +45,11 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-242938?logo=github-actions&logoColor=2188ff&style=flat)
 &nbsp;&nbsp;![Docker](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white&style=flat)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white&style=flat)
+![Argo](https://img.shields.io/badge/Argo-ef7B4d?logo=argo&logoColor=white&style=flat)
 <br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring-boot&logoColor=white&style=flat)
-&nbsp;&nbsp;![C#](https://img.shields.io/badge/C%23-239120?&logo=c-sharp&logoColor=white)
+&nbsp;&nbsp;![C#](https://img.shields.io/badge/C%23-239120?&logo=csharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=flat)
 &nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-0054FF?logo=typescript&logoColor=white&style=flat)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853d?logo=node.js&logoColor=white&style=flat)
