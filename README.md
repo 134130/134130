@@ -47,7 +47,8 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white&style=flat)
 ![Argo](https://img.shields.io/badge/Argo-ef7B4d?logo=argo&logoColor=white&style=flat)
 <br>
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat)
+&nbsp;&nbsp;![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring-boot&logoColor=white&style=flat)
 &nbsp;&nbsp;![C#](https://img.shields.io/badge/C%23-239120?&logo=csharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=flat)
