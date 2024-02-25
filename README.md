@@ -15,8 +15,10 @@
   - QueryPie, CHEQUER Inc. (2022.04 ~ ing)
     - Platform Developer (2022.04 ~ 2023.06)
       - `C#` `.NET` `ANTLR4` `Avalonia`
-    - SaaS Backend Developer (2023.07 ~ ing)
+    - SaaS Backend Developer (2023.07 ~ 2023.12)
       - `Kotlin` `Spring Boot` `Postgres` `Kubernetes`
+    - Proxy Developer (2024.01 ~ ing)
+      - `Go` `Kubernetes`
 
 ### Contributions :octocat:
 - **refined-github/refined-github**
