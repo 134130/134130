@@ -17,8 +17,10 @@
       - `C#` `.NET` `ANTLR4` `Avalonia`
     - Backend Team, SaaS TF; Developer (2023.07 ~ 2023.12)
       - `Kotlin` `Spring Boot` `Postgres` `Kubernetes`
-    - Proxy Developer (2024.01 ~ ing)
+      - Making Data Governance Platform for SaaS
+    - Core Team, Proxy Developer (2024.01 ~ ing)
       - `Go` `Kubernetes`
+      - Making Kubernetes Access Control service
 
 ### Contributions :octocat:
 - **refined-github/refined-github**
