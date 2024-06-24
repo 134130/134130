@@ -7,18 +7,19 @@
     -  Computer Science & Engineering
 - ⚓️🪖 Military
   - Republic of Korea Navy (2020.10 ~ 2022.06)
-    - CERT; Computer Emergency Response Team (2020.12 ~ 2021.08)
+    - CERT(Computer Emergency Response Team) (2020.12 ~ 2021.08)
       - Managing Security solutions (Firewall, NAC, PMS, IPS, IDS, TMS, SIEM, ...)
     - Host Computer Operator (2021.09 ~ 2022.06)
       - Managing on-premise Military Network and Servers Devices
 - 🏢🧑‍💻 Job
   - QueryPie, CHEQUER Inc. (2022.04 ~ ing)
-    - Platform Team; Developer (2022.04 ~ 2023.06)
+    - Platform Team (2022.04 ~ 2023.06)
       - `C#` `.NET` `ANTLR4` `Avalonia`
-    - Backend Team, SaaS TF; Developer (2023.07 ~ 2023.12)
+      - Making Redis Access Control function
+    - Backend Team, SaaS TF (2023.07 ~ 2023.12)
       - `Kotlin` `Spring Boot` `Postgres` `Kubernetes`
       - Making Data Governance Platform for SaaS
-    - Core Team, Proxy Developer (2024.01 ~ ing)
+    - Core Team (2024.01 ~ ing)
       - `Go` `Kubernetes`
       - Making Kubernetes Access Control service
 
