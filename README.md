@@ -24,26 +24,23 @@
       - Making Kubernetes Access Control service
 
 ### Contributions :octocat:
-- **refined-github/refined-github**
-  - [PR] Show "Disabled" state in `github-actions-indicators` [#6543](https://github.com/refined-github/refined-github/pull/6543)
-  - [PR] Add `action-pr-link` feature [#6694](https://github.com/refined-github/refined-github/pull/6694)
-  - [PR] Add `previous-version` feature [#6550](https://github.com/refined-github/refined-github/pull/6550)
-  - [PR] Enable `useful-not-found-page` on the new "404 file" page [#6840](https://github.com/refined-github/refined-github/pull/6840)
-  - [PR] Add support for "minimum font size" browser setting in `pr-approvals-count` [#6898](https://github.com/refined-github/refined-github/pull/6898)
-  - _... over 20+ issues and pull requests_
-- **dotnet/sdk**
-  - [PR] Fix translation error of NETSDK1179 [#31294](https://github.com/dotnet/sdk/pull/31294)
-- **apache/shardingsphere**
-  - [PR] Optimize the message of DatabaseServerInfo [#28428](https://github.com/apache/shardingsphere/pull/28428)
-  - [Issue] MySQL's ResultSet of `SELECT *` is wrong when with Masking Feature[ #27879](https://github.com/apache/shardingsphere/issues/27879)
-- **axisj/react-multi-email**
-  - [PR] Support email duplicating [#152](https://github.com/axisj/react-multi-email/pull/152)
-- **actions/setup-dotnet**
-  - [Issue] Support registration manual NuGet source to NuGet.Config [#415](https://github.com/actions/setup-dotnet/issues/415)
-- **JSQLParser/JSqlParser**
-  - [Issue] [FEATURE] Support TABLE statement which added since MySQL 8.0.19 [#1836](https://github.com/JSQLParser/JSqlParser/issues/1836)
-- **hierynomus/sshj**
-  - [Issue] NullPointerException on Malformed OpenSSH Private keys in `OpenSSHKeyV1KeyFile.java` [#897](https://github.com/hierynomus/sshj/issues/897)
+- **[refined-github/refined-github](https://github.com/refined-github/refined-github)**
+  - Currently, _[25 Pull Requests](https://github.com/refined-github/refined-github/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3A134130+is%3Amerged)_ are merged
+- **[gorilla/websocket](https://github.com/gorilla/websocket)**
+  - Support http proxy correctly [#939](https://github.com/gorilla/websocket/pull/939)
+- **[dotnet/sdk](https://github.com/dotnet/sdk)**
+  - Fix translation error of NETSDK1179 [#31294](https://github.com/dotnet/sdk/pull/31294)
+- **[apache/shardingsphere](https://github.com/apache/shardingsphere)**
+  - Optimize the message of DatabaseServerInfo [#28428](https://github.com/apache/shardingsphere/pull/28428)
+  - MySQL's ResultSet of `SELECT *` is wrong when with Masking Feature [#27879](https://github.com/apache/shardingsphere/issues/27879)
+- **[axisj/react-multi-email](https://github.com/axisj/react-multi-email)**
+  - Support email duplicating [#152](https://github.com/axisj/react-multi-email/pull/152)
+- **[actions/setup-dotnet](https://github.com/actions/setup-dotnet)**
+  - Support registration manual NuGet source to NuGet.Config [#415](https://github.com/actions/setup-dotnet/issues/415)
+- **[JSQLParser/JSqlParser](https://github.com/JSQLParser/JSqlParser)**
+  - [FEATURE] Support TABLE statement which added since MySQL 8.0.19 [#1836](https://github.com/JSQLParser/JSqlParser/issues/1836)
+- **[hierynomus/sshj](https://github.com/hierynomus/sshj)**
+  - NullPointerException on Malformed OpenSSH Private keys in `OpenSSHKeyV1KeyFile.java` [#897](https://github.com/hierynomus/sshj/issues/897)
 ---
 ![git](https://img.shields.io/badge/git-f03c2d?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-242938?logo=github&logoColor=white&style=flat)
