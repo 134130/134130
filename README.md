@@ -28,6 +28,8 @@
   - Currently, _[25 Pull Requests](https://github.com/refined-github/refined-github/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3A134130+is%3Amerged)_ are merged
 - **[gorilla/websocket](https://github.com/gorilla/websocket)**
   - Support http proxy correctly [#939](https://github.com/gorilla/websocket/pull/939)
+- **[tus/tusd](https://github.com/tus/tusd)**
+  - `InternalServerError: no such file or directory` when Downloading file with using File Locker. [#1148](https://github.com/tus/tusd/issues/1148)
 - **[dotnet/sdk](https://github.com/dotnet/sdk)**
   - Fix translation error of NETSDK1179 [#31294](https://github.com/dotnet/sdk/pull/31294)
 - **[apache/shardingsphere](https://github.com/apache/shardingsphere)**
