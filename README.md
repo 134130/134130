@@ -1,33 +1,37 @@
 
 ### History
-- 🏫🧑‍🎓 Education
-  - HyupSung Univ. (2019.03 ~ 2020.09)
-    -  Computer Science & Engineering
-  - Korea National Open Univ. (2023.09 ~ 2026.08)
-    -  Computer Science & Engineering
-- ⚓️🪖 Military
-  - Republic of Korea Navy (2020.10 ~ 2022.06)
-    - CERT(Computer Emergency Response Team) (2020.12 ~ 2021.08)
-      - Managing Security solutions (Firewall, NAC, PMS, IPS, IDS, TMS, SIEM, ...)
-    - Host Computer Operator (2021.09 ~ 2022.06)
-      - Managing on-premise Military Network and Servers Devices
-- 🏢🧑‍💻 Job
-  - QueryPie, CHEQUER Inc. (2022.04 ~ ing)
-    - Platform Team (2022.04 ~ 2023.06)
-      - `C#` `.NET` `ANTLR4` `Avalonia`
-      - Making Redis Access Control function
-    - Backend Team, SaaS TF (2023.07 ~ 2023.12)
-      - `Kotlin` `Spring Boot` `Postgres` `Kubernetes`
-      - Making Data Governance Platform for SaaS
-    - Core Team (2024.01 ~ ing)
-      - `Go` `Kubernetes`
-      - Making Kubernetes Access Control service
+
+**🏫🧑‍🎓 Education**
+- HyupSung Univ. (2019.03 ~ 2020.09)
+  -  Computer Science & Engineering
+- Korea National Open Univ. (2023.09 ~ 2026.08)
+  -  Computer Science & Engineering
+
+**⚓️🪖 Military**
+- Republic of Korea Navy (2020.10 ~ 2022.06)
+  - CERT(Computer Emergency Response Team) (2020.12 ~ 2021.08)
+    - Managing Security solutions (Firewall, NAC, PMS, IPS, IDS, TMS, SIEM, ...)
+  - Host Computer Operator (2021.09 ~ 2022.06)
+    - Managing on-premise Military Network and Servers Devices
+
+**🏢🧑‍💻 Job**
+- QueryPie, CHEQUER Inc. (2022.04 ~ ing)
+  - Platform Team (2022.04 ~ 2023.06)
+    - `C#` `.NET` `ANTLR4` `Avalonia`
+    - Making Redis Access Control function
+  - Backend Team, SaaS TF (2023.07 ~ 2023.12)
+    - `Kotlin` `Spring Boot` `Postgres` `Kubernetes`
+    - Making Data Governance Platform for SaaS
+  - Core Team (2024.01 ~ ing)
+    - `Go` `Kubernetes`
+    - Making Kubernetes Access Control service (Kubernetes API Proxy)
+    - Making Web Access Control service (General HTTP Proxy)
 
 ### Contributions :octocat:
 - **[refined-github/refined-github](https://github.com/refined-github/refined-github)**
   - Currently, _[25 Pull Requests](https://github.com/refined-github/refined-github/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3A134130+is%3Amerged)_ are merged
 - **[gorilla/websocket](https://github.com/gorilla/websocket)**
-  - Support http proxy correctly [#939](https://github.com/gorilla/websocket/pull/939)
+  - Support TLS connection to HTTP Proxy [#950](https://github.com/gorilla/websocket/pull/950)
 - **[tus/tusd](https://github.com/tus/tusd)**
   - `InternalServerError: no such file or directory` when Downloading file with using File Locker. [#1148](https://github.com/tus/tusd/issues/1148)
 - **[dotnet/sdk](https://github.com/dotnet/sdk)**
@@ -43,6 +47,7 @@
   - [FEATURE] Support TABLE statement which added since MySQL 8.0.19 [#1836](https://github.com/JSQLParser/JSqlParser/issues/1836)
 - **[hierynomus/sshj](https://github.com/hierynomus/sshj)**
   - NullPointerException on Malformed OpenSSH Private keys in `OpenSSHKeyV1KeyFile.java` [#897](https://github.com/hierynomus/sshj/issues/897)
+
 ---
 ![git](https://img.shields.io/badge/git-f03c2d?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-242938?logo=github&logoColor=white&style=flat)
@@ -60,7 +65,3 @@
 ![Nodejs](https://img.shields.io/badge/Node.js-43853d?logo=node.js&logoColor=white&style=flat)
 &nbsp;&nbsp;![MySQL](https://img.shields.io/badge/MySQL-00758f?logo=mysql&logoColor=white&style=flat)
 ![Redis](https://img.shields.io/badge/Redis-d82b1f?logo=redis&logoColor=white&style=flat)
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=a1eng0)](https://solved.ac/a1eng0)
-
-
