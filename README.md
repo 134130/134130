@@ -19,7 +19,7 @@
   - Platform Team (2022.04 - 2023.06)
     - `C#` `.NET` `ANTLR4` `Avalonia`
     - Making Redis Access Control function
-  - Backend Team, SaaS TF (2023.07 - 2023.12)
+  - Backend Team, SaaS TF (2023.07 - 12)
     - `Kotlin` `Spring Boot` `Postgres` `Kubernetes`
     - Making Data Governance Platform for SaaS
   - Core Team (2024.01 - 07)
