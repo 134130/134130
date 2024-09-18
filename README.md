@@ -2,30 +2,32 @@
 ### History
 
 **🏫🧑‍🎓 Education**
-- HyupSung Univ. (2019.03 ~ 2020.09)
+- HyupSung Univ. (2019.03 - 2020.09)
   -  Computer Science & Engineering
-- Korea National Open Univ. (2023.09 ~ 2026.08)
+- Korea National Open Univ. (2023.09 - 2026.08)
   -  Computer Science & Engineering
 
 **⚓️🪖 Military**
-- Republic of Korea Navy (2020.10 ~ 2022.06)
-  - CERT(Computer Emergency Response Team) (2020.12 ~ 2021.08)
+- Republic of Korea Navy (2020.10 - 2022.06)
+  - CERT(Computer Emergency Response Team) (2020.12 - 2021.08)
     - Managing Security solutions (Firewall, NAC, PMS, IPS, IDS, TMS, SIEM, ...)
-  - Host Computer Operator (2021.09 ~ 2022.06)
+  - Host Computer Operator (2021.09 - 2022.06)
     - Managing on-premise Military Network and Servers Devices
 
 **🏢🧑‍💻 Job**
-- QueryPie, CHEQUER Inc. (2022.04 ~ ing)
-  - Platform Team (2022.04 ~ 2023.06)
+- QueryPie, CHEQUER Inc. (2022.04 - ing)
+  - Platform Team (2022.04 - 2023.06)
     - `C#` `.NET` `ANTLR4` `Avalonia`
     - Making Redis Access Control function
-  - Backend Team, SaaS TF (2023.07 ~ 2023.12)
+  - Backend Team, SaaS TF (2023.07 - 2023.12)
     - `Kotlin` `Spring Boot` `Postgres` `Kubernetes`
     - Making Data Governance Platform for SaaS
-  - Core Team (2024.01 ~ ing)
+  - Core Team (2024.01 - 07)
     - `Go` `Kubernetes`
     - Making Kubernetes Access Control service (Kubernetes API Proxy)
     - Making Web Access Control service (General HTTP Proxy)
+  - Backend Team (2024.08 - ing)
+    - `Kotlin` `Spring Boot`
 
 ### Contributions :octocat:
 - **[refined-github/refined-github](https://github.com/refined-github/refined-github)**
