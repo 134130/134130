@@ -1,0 +1,12 @@
+name: labeler
+on: [pull_request]
+jobs:
+  labeler:
+    permissions:
+      pull-requests: write
+      contents: read
+      issues: write
+    runs-on: ubuntu-latest
+    name: Label the PR size
+    steps:
+      - uses: 134130/pr-size-labeler@cooper/token-optional
