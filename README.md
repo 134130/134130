@@ -16,7 +16,7 @@ In Korean, "바보(BABO)" means "fool"
 - Republic of Korea Navy (2020.10 - 2022.06)
 
 **🏢🧑‍💻 Job**
-- QueryPie, CHEQUER Inc. (2022.04 - ing)
+- QueryPie Inc. (2022.04 - ing)
   - Platform Team (2022.04 - 2023.06)
     - `C#` `.NET` `ANTLR4` `Avalonia`
     - Making Redis Access Control
