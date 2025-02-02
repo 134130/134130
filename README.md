@@ -17,18 +17,14 @@ In Korean, "바보(BABO)" means "goofy"
 
 **🏢🧑‍💻 Job**
 - QueryPie Inc. (2022.04 - ing)
-  - Platform Team (2022.04 - 2023.06)
-    - `C#` `.NET` `ANTLR4` `Avalonia`
+  - Platform Team (2022.04 - 2023.06) ![C#](https://img.shields.io/badge/C%23-239120?&logo=csharp&logoColor=white) ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=flat) `ANTLR4` `Avalonia`
     - Making Redis Access Control
-  - Backend Team, SaaS TF (2023.07 - 12)
-    - `Kotlin` `Spring Boot` `Postgres` `Kubernetes`
+  - Backend Team, SaaS TF (2023.07 - 12) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring-boot&logoColor=white&style=flat) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white&style=flat) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white&style=flat)
     - Making Data Governance Platform for SaaS
-  - Core Team (2024.01 - 07)
-    - `Go` `Kubernetes`
+  - Core Team (2024.01 - 07) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white&style=flat)
     - Making Kubernetes Access Control service (Kubernetes API Proxy)
     - Making Web Access Control service (General HTTP Proxy)
-  - Backend Team (2024.08 - ing)
-    - `Kotlin` `Spring Boot`
+  - Backend Team (2024.08 - ing) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring-boot&logoColor=white&style=flat) ![MySQL](https://img.shields.io/badge/MySQL-00758f?logo=mysql&logoColor=white&style=flat) ![Redis](https://img.shields.io/badge/Redis-d82b1f?logo=redis&logoColor=white&style=flat)
 
 <details>
   
