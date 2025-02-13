@@ -10,3 +10,5 @@ jobs:
     name: Label the PR size
     steps:
       - uses: 134130/pr-size-labeler@cooper/token-optional
+      - name: my test
+        run: echo 'hi'
