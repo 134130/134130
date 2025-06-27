@@ -27,6 +27,9 @@ In Korean, "바보(BABO)" means "goofy"
   - Backend Team (2024.08 - ing) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring-boot&logoColor=white&style=flat) ![MySQL](https://img.shields.io/badge/MySQL-00758f?logo=mysql&logoColor=white&style=flat) ![Redis](https://img.shields.io/badge/Redis-d82b1f?logo=redis&logoColor=white&style=flat)
 
 <details>
+
+**📜📝 Contents**
+- [Efficient MCP Interface design guide series](https://medium.com/querypie/efficient-mcp-interface-design-guide-for-llm-series-0ad76f7dbea4)
   
 <summary>Contributions :octocat:</summary>
 ### Contributions :octocat:
