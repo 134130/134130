@@ -29,6 +29,7 @@ In Korean, "바보(BABO)" means "goofy"
 **📜📝 Contents**
   - [Efficient MCP Interface design guide series](https://medium.com/querypie/efficient-mcp-interface-design-guide-for-llm-series-0ad76f7dbea4)
 
+<img src="https://algora.io/og/user/134130" />
 
 <details>
   
