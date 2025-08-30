@@ -1,35 +1,24 @@
 ## 134130
 
-"134130" is a [leet](https://en.wikipedia.org/wiki/Leet). It can be translated as BABO.
+My ID "134130" is <a href="https://en.wikipedia.org/wiki/Leet">leetspeak</a> for "BABO" (바보), which means "goofy" in Korean! 😄
 
-In Korean, "바보(BABO)" means "goofy"
+### 🏢 Work Experience
 
-### History
-
-**🏫🧑‍🎓 Education**
-- HyupSung Univ. (2019.03 - 2020.09)
-  -  Computer Engineering (BS)
-- Korea National Open Univ. (2023.09 - 2026.08)
-  -  Computer Science (BS)
-
-**⚓️🪖 Duty of Military**
-- Republic of Korea Navy (2020.10 - 2022.06)
-
-**🏢🧑‍💻 Job**
 - QueryPie Inc. (2022.04 - ing)
-  - Platform Team (2022.04 - 2023.06) ![C#](https://img.shields.io/badge/C%23-239120?&logo=csharp&logoColor=white) ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=flat) `ANTLR4` `Avalonia`
-    - Making Redis Access Control
-  - Backend Team, SaaS TF (2023.07 - 12) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring-boot&logoColor=white&style=flat) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white&style=flat) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white&style=flat)
-    - Making Data Governance Platform for SaaS
-  - Core Team (2024.01 - 07) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white&style=flat)
-    - Making Kubernetes Access Control service (Kubernetes API Proxy)
-    - Making Web Access Control service (General HTTP Proxy)
-  - Backend Team (2024.08 - ing) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring-boot&logoColor=white&style=flat) ![MySQL](https://img.shields.io/badge/MySQL-00758f?logo=mysql&logoColor=white&style=flat) ![Redis](https://img.shields.io/badge/Redis-d82b1f?logo=redis&logoColor=white&style=flat)
  
-**📜📝 Contents**
-  - [Efficient MCP Interface design guide series](https://medium.com/querypie/efficient-mcp-interface-design-guide-for-llm-series-0ad76f7dbea4)
+### 📜📝 Contents
+
+- [Efficient MCP Interface design guide series](https://medium.com/querypie/efficient-mcp-interface-design-guide-for-llm-series-0ad76f7dbea4)
+
+### 📊 My GitHub Stats & Fun Fact
+
+<div align="center">
+
+[![Jihwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=134130&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://algora.io/og/user/134130" />
+
+</div>
 
 <details>
   
