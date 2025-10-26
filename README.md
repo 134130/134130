@@ -4,7 +4,8 @@ My ID "134130" is <a href="https://en.wikipedia.org/wiki/Leet">leetspeak</a> for
 
 ### 🏢 Work Experience
 
-- QueryPie Inc. (2022.04 - ing)
+- QueryPie Inc. @querypie (2022.04 - 2025.10)
+- Viva Republica Inc. @toss (2025.10 - ing)
  
 ### 📜📝 Contents
 
