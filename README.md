@@ -4,14 +4,18 @@ My ID "134130" is <a href="https://en.wikipedia.org/wiki/Leet">leetspeak</a> for
 
 ### 🏢 Work Experience
 
-- QueryPie Inc. @querypie (2022.04 - 2025.10)
-- Viva Republica Inc. @toss (2025.10 - ing)
+- QueryPie Inc. [@querypie](https://github.com/querypie) (2022.04 - 2025.10)
+  - Core/Backend Software Engineer
+  - Kotlin, Spring Boot, Go, C#, .NET Core
+- Viva Republica Inc. [@toss](https://github.com/toss) (2025.10 - ing)
+  - Network Software Enginner
+  - Go
  
 ### 📜📝 Contents
 
 - [Efficient MCP Interface design guide series](https://medium.com/querypie/efficient-mcp-interface-design-guide-for-llm-series-0ad76f7dbea4)
 
-### 📊 My GitHub Stats & Fun Fact
+### 📊 My GitHub Stats
 
 <div align="center">
 
