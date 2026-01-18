@@ -7,9 +7,11 @@ My ID "134130" is <a href="https://en.wikipedia.org/wiki/Leet">leetspeak</a> for
 - QueryPie Inc. [@querypie](https://github.com/querypie) (2022.04 - 2025.10)
   - Core/Backend Software Engineer
   - Kotlin, Spring Boot, Go, C#, .NET Core
+  - Database, Kubernetes, HTTP Gateway
 - Viva Republica Inc. [@toss](https://github.com/toss) (2025.10 - ing)
   - Network Software Enginner
   - Go
+  - ZTNA VPN Gateway
  
 ### 📜📝 Contents
 
